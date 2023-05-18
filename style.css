@@ -92,8 +92,9 @@
 }
   
   .details {
-    width: 70%;
+    width: 50%;
     float: right;
+      padding-left:100px;
       
   }
   
