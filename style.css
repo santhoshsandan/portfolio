@@ -87,14 +87,15 @@
                 transition: 1s linear;
   }
 .image img:hover{ transform: rotate(900deg);
-                width: 550px;
-                height: 550px;
+                width: 450px;
+                height: 450px;
 }
   
   .details {
     width: 50%;
-    float: right;
-      padding-left:100px;
+    float: left;
+      padding-left:50px;
+      margin:50px;
       
   }
   
