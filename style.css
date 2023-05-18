@@ -82,11 +82,11 @@
   
   .image img {
     border-radius: 100%;
-                width: 400px;
-                height: 400px;
+                width: 300px;
+                height: 300px;
                 transition: 1s linear;
   }
-.image img:hover{ transform: rotate(950deg);
+.image img:hover{ transform: rotate(900deg);
                 width: 550px;
                 height: 550px;
 }
