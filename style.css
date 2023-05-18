@@ -92,8 +92,9 @@
 }
   
   .details {
-    width: 50%;
-    float: left;
+    width: 70%;
+    float: right;
+      
   }
   
   .details h2 {
