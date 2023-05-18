@@ -84,9 +84,9 @@
     border-radius: 100%;
                 width: 300px;
                 height: 300px;
-                transition: 0.5s linear;
+                transition: 0.3s linear;
   }
-.image img:hover{ transform: rotate(720deg);
+.image img:hover{ transform: rotate(1080deg);
                 width: 400px;
                 height: 400px;
 }
