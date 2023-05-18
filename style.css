@@ -75,7 +75,7 @@
   }
   
   .image {
-    width: 200px;
+    width: 150px;
     float: left;
     margin-right: 130px;
   }
@@ -136,7 +136,8 @@
     border-radius: 5px;
     overflow: hidden;
     transition: transform 0.3s ease;
-    width:800px;
+    width:900px;
+        gap:30px;
        
     }
     
