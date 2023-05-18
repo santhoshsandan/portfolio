@@ -86,9 +86,9 @@
                 height: 300px;
                 transition: 1s linear;
   }
-.image img:hover{ transform: rotate(900deg);
-                width: 450px;
-                height: 450px;
+.image img:hover{ transform: rotate(800deg);
+                width: 400px;
+                height: 400px;
 }
   
   .details {
@@ -139,9 +139,9 @@
     border-radius: 5px;
     overflow: hidden;
     transition: transform 0.3s ease;
-    width:1000px;
+    width:1200px;
         gap:60px;
-       
+       margin:20px;
     }
     
     .card:hover {
