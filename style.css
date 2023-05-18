@@ -81,9 +81,15 @@
   }
   
   .image img {
-    width: 300px;
-    border-radius: 50%;
+    border-radius: 100%;
+                width: 400px;
+                height: 400px;
+                transition: 1s linear;
   }
+.image img:hover{ transform: rotate(950deg);
+                width: 550px;
+                height: 550px;
+}
   
   .details {
     width: 50%;
