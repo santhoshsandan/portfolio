@@ -86,7 +86,7 @@
                 height: 300px;
                 transition: 0.5s linear;
   }
-.image img:hover{ transform: rotate(360deg);
+.image img:hover{ transform: rotate(720deg);
                 width: 400px;
                 height: 400px;
 }
